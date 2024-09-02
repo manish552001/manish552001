@@ -22,7 +22,7 @@ I'm a passionate Full Stack Java Developer with over 2 years of experience speci
 
 ## About Me
 
-- 🌐 Currently pursuing my B.Tech. degree in Computer Science & Engineering from Rajkiya Engineering College, Sonbhadra.
+- 🌐 Recently Graduated my B.Tech. degree in Computer Science & Engineering from Rajkiya Engineering College, Sonbhadra(AKTU).
 - 🚀 With a strong emphasis on problem-solving, I enjoy tackling complex challenges and delivering high-quality results.
 - 💡 To continuously enhance my logic-building and problem-solving skills, I actively participate in coding contests on platforms like  LeetCode etc.
 
