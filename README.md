@@ -26,6 +26,21 @@ I'm a passionate Full Stack Java Developer with over 2 years of experience speci
 - 🚀 With a strong emphasis on problem-solving, I enjoy tackling complex challenges and delivering high-quality results.
 - 💡 To continuously enhance my logic-building and problem-solving skills, I actively participate in coding contests on platforms like  LeetCode etc.
 
+<!-- Use icons instead of regular links -->
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-manish55001-black?style=for-the-badge&logo=github)](https://github.com/manish552001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-manish55001-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manish-yadav-260882220/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-manish55001-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/manish552001/)
+[![Instagram](https://img.shields.io/badge/Instagram-manish552001-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/manish.yadav.5.5/)
+![Gmail](https://img.shields.io/badge/Email-manishyadav552001@gmail.com-red?style=for-the-badge&logo=gmail)
+
+<!-- Add the GitHub Readme Stats badge here -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manish552001&show_icons=true&count_private=true&hide=prs,issues&theme=radical&include_all_commits=true)
+
+
+</div>
+
 ## Tech Stack
 
 As a Full Stack Java Developer, I excel in crafting efficient and user-friendly solutions by leveraging my expertise in following frameworks and tools:
@@ -64,17 +79,4 @@ If you're seeking a dedicated Full Stack Java Developer with a strong foundation
 
 Connect with me on other platforms I actively engage on:
 
-<!-- Use icons instead of regular links -->
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-manish55001-black?style=for-the-badge&logo=github)](https://github.com/manish552001)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-manish55001-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manish-yadav-260882220/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-manish55001-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/manish552001/)
-[![Instagram](https://img.shields.io/badge/Instagram-manish552001-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/manish.yadav.5.5/)
-![Gmail](https://img.shields.io/badge/Email-manishyadav552001@gmail.com-red?style=for-the-badge&logo=gmail)
 
-<!-- Add the GitHub Readme Stats badge here -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manish552001&show_icons=true&count_private=true&hide=prs,issues&theme=radical&include_all_commits=true)
-
-
-</div>
